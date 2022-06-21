@@ -1,9 +1,11 @@
 ## Coding-Blog-Website-Using-Bootstrap
 
+
+
 ### Technology
 
-HTML , CSS & BOOTSTRAP
+HTML, CSS & BOOTSTRAP
 
-## Support
+### Support
 
 jaytipasrija1818@gmail.com
