@@ -1,6 +1,7 @@
-# Coding-Blog-Website-Using-Bootstrap
+## Coding-Blog-Website-Using-Bootstrap
 
-Technology: HTML , CSS & BOOTSTRAP
+###Technology: 
+HTML , CSS & BOOTSTRAP
 
-Support:
+###Support:
 jaytipasrija1818@gmail.com
